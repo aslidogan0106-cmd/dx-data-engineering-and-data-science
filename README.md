@@ -251,17 +251,7 @@ você está **projetando sistemas de trabalho**.
 
 ---
 
-Se quiser, próximo passo possível:
 
-- versão **README minimalista** (1 tela)
-
-- badges (Python, uv, PowerShell)
-
-- diagrama simples da arquitetura
-
-- ou adaptar o texto para **post técnico no LinkedIn**
-
-É só me dizer.
 
 
 

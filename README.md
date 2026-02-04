@@ -1,4 +1,6 @@
-# 🧠 Sistema de Trabalho Profissional
+# **Developer Experience (DX) aplicada a Data Engineering & Data Science**
+
+## 🧠 Sistema de Trabalho Profissional
 
 ## PowerShell 7 • Python 3.11/3.12 • uv • VS Code
 
@@ -258,3 +260,4 @@ Se quiser, próximo passo possível:
 - ou adaptar o texto para **post técnico no LinkedIn**
 
 É só me dizer.
+

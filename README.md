@@ -17,6 +17,16 @@ Não é um tutorial básico.
 ---
 
 
+```md
+## 📄 Documentação completa
+- 📘 Ebook (Markdown): `docs/ebook.md`
+- 📕 Ebook (PDF): `docs/ebook.pdf`
+- 🧰 PowerShell Profile: `powershell-profile/`
+```
+---
+
+
+
 
 ## 🎯 Objetivos do Setup
 
@@ -266,5 +276,35 @@ então você não está apenas escrevendo código — você está **projetando s
 
 ---
 
+
+
+
+## ⚡ Quickstart (60s)
+```powershell
+git clone https://github.com/roberto-ssoares/dx-data-engineering-and-data-science.git
+cd dx-data-engineering-and-data-science
+# leia docs/ebook.md (ou docs/ebook.pdf)
+# copie o powershell-profile conforme instruções do ebook
+doctor
+```
 ---
+
+
+## O que já está ótimo (e eu manteria)
+- Nome e descrição do repo estão alinhados com DX e dados. :contentReference[oaicite:4]{index=4}  
+- Estrutura com `docs/` + `powershell-profile/` faz sentido e está limpa. :contentReference[oaicite:5]{index=5}  
+- Topics estão muito bem escolhidos (dx, developer-experience, powershell, onboarding etc.). :contentReference[oaicite:6]{index=6}  
+
+---
+
+## Minha recomendação final
+Faça **os 3 ajustes acima** (tabela + fenced code blocks + links docs). Isso leva seu repo de “bom” para **padrão referência**.
+
+Se você colar aqui o conteúdo atual do `README.md` (ou só a parte “Arquitetura + Rotina”), eu já te devolvo **o README revisado pronto para colar** (sem mudar seu conteúdo, só melhorando a apresentação).
+::contentReference[oaicite:7]{index=7}
+
+
+
+
+
 

